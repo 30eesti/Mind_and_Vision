@@ -1,8 +1,8 @@
 ## Members
 
- - [Kosuke Motohashi - Artist](https://kosukemotohashi.tokyo/)
- - [かもめ @30eesti - Neet](https://twitter.com/30eesti)
- - [ﾀﾛﾀﾅｶ @TAROTANAKA_jp - Researcher](https://twitter.com/TAROTANAKA_jp)
+ - [Artist: Kosuke Motohashi](https://kosukemotohashi.tokyo/)
+ - [Neet: かもめ @30eesti](https://twitter.com/30eesti)
+ - [Researcher: ﾀﾛﾀﾅｶ @TAROTANAKA_jp](https://twitter.com/TAROTANAKA_jp)
 
 ### Markdown
 
