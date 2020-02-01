@@ -1,8 +1,8 @@
 ## Members
 
-- Kosuke Motohashi [Link](https://kosukemotohashi.tokyo/)
-- かもめ @30eesti [Link](https://twitter.com/30eesti)
-- ﾀﾛﾀﾅｶ @TAROTANAKA_jp [Link](https://twitter.com/TAROTANAKA_jp)
+- [Kosuke Motohashi](https://kosukemotohashi.tokyo/)
+- [かもめ @30eesti](https://twitter.com/30eesti)
+- [ﾀﾛﾀﾅｶ @TAROTANAKA_jp](https://twitter.com/TAROTANAKA_jp)
 
 ### Markdown
 
